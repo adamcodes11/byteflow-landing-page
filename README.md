@@ -16,7 +16,7 @@ Pure frontend (no functionality, just a showcase) -  clean, responsive landing p
 
 ## Usage
 ```bash
-# 1.
+# 1. Download repo
 git clone https://github.com/adamcodes11/byteflow-landing-page.git
 cd byteflow-landing-page
 # or simply download zip file
