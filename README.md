@@ -15,4 +15,17 @@ Pure frontend (no functionality, just a showcase) -  clean, responsive landing p
 - Pure HTML + CSS — no frameworks, no dependencies
 
 ## Usage
-Just open `index.html` in any browser. No setup needed.
+```bash
+# 1.
+git clone https://github.com/adamcodes11/byteflow-landing-page.git
+cd byteflow-landing-page
+# or simply download zip file
+
+# 2. Run
+open index.html       # Mac
+xdg-open index.html   # Linux
+start index.html      # Windows
+# or just double-click `index.html` in your file explorer.
+```
+
+
