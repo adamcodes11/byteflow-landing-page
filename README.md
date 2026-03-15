@@ -1,6 +1,6 @@
 # 🌐 ByteFlow Landing Page
 
-Pure frontend -  clean, responsive landing page for a freelance automation & web development business.
+Pure frontend (no functionality, just a showcase) -  clean, responsive landing page for a freelance automation & web development business.
 ## Preview
 ![Landing Page Preview](preview1.png)
 ![Landing Page Preview](preview2.png)
